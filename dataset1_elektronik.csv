@@ -1,0 +1,16 @@
+ID,Nama_Produk,Kategori,Harga,Rating
+E01,Laptop ASUS Vivobook,Elektronik,8500000,4.7
+E02,Mouse Wireless Logitech,Aksesori,150000,4.6
+E03,Keyboard Mekanikal,Aksesori,450000,4.8
+E04,Monitor Gaming 24 Inch,Elektronik,1800000,4.5
+E05,Headset Bluetooth,Aksesori,250000,4.2
+E06,Smartphone Samsung,Elektronik,3200000,4.6
+E07,USB Flashdrive 64GB,Aksesori,85000,4.3
+E08,Powerbank 10000mAh,Aksesori,190000,4.4
+E09,Webcam HD 1080p,Aksesori,350000,4.1
+E10,Tablet Android,Elektronik,2100000,4.5
+E11,Kabel Data Type-C,Aksesori,35000,4.0
+E12,Speaker Portable,Aksesori,280000,4.3
+E13,Smartwatch Fitness,Elektronik,650000,4.6
+E14,Stand Laptop Aluminium,Aksesori,120000,4.7
+E15,TWS Earphone,Aksesori,220000,4.5
