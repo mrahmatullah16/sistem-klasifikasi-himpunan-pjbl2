@@ -19,3 +19,5 @@ Aplikasi web berbasis **Streamlit** untuk memodelkan data e-commerce ke dalam ko
 1. Install pustaka pendukung:
    ```bash
    pip install -r requirements.txt
+2. Link Akses Sistem Klasifikasi Data dengan Himpunan:
+   https://sistem-klasifikasi-himpunan-pjbl2.streamlit.app/
